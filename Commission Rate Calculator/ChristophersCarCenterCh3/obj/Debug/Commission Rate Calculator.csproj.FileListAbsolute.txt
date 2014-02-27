@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\bin\Debug\ChristophersCarCenterCh3.exe.config
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.exe
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.pdb
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\bin\Debug\ChristophersCarCenterCh3.exe
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\bin\Debug\ChristophersCarCenterCh3.pdb
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\Commission Rate Calculator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.commissionRateForm.resources
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ChristophersCarCenterCh3\ChristophersCarCenterCh3\obj\Debug\Commission Rate Calculator.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Commission Rate Calculator\ChristophersCarCenterCh3\bin\Debug\ChristophersCarCenterCh3.exe.config
+D:\Documents\Visual Studio 2012\Projects\Commission Rate Calculator\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.exe
+D:\Documents\Visual Studio 2012\Projects\Commission Rate Calculator\ChristophersCarCenterCh3\obj\Debug\ChristophersCarCenterCh3.pdb
