@@ -1,0 +1,11 @@
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\bin\Debug\AudioBrowser.exe.config
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\bin\Debug\AudioBrowser.exe
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\bin\Debug\AudioBrowser.pdb
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\bin\Debug\NAudio.dll
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\bin\Debug\NAudio.xml
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.exe
+d:\documents\visual studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.pdb
+D:\Documents\Visual Studio 2013\Projects\AudioBrowser\AudioBrowser\obj\Debug\AudioBrowser.browserForm.resources
